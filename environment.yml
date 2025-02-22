@@ -1,0 +1,14 @@
+name: fraud-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - scikit-learn
+  - pandas
+  - numpy
+  - kfp
+  - pip
+  - pip:
+    - azureml-defaults
+    - azureml-core
