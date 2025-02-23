@@ -1,6 +1,7 @@
 **Fraud Detection System for Banking Transactions**
 
-**Project Aim - ** Build a real-time fraud detection system using machine learning to analyze and flag suspicious banking transactions.
+**Project Aim**
+Build a real-time fraud detection system using machine learning to analyze and flag suspicious banking transactions.
 Description: Create a microservices architecture to handle transaction data, with ML models for detecting fraudulent activities and alerting the bank’s fraud team.
 
 **Objectives**
